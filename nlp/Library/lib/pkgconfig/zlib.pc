@@ -1,8 +1,8 @@
-prefix=M:/Learning_Workspace/AI/NLP/nlp/Library
-exec_prefix=M:/Learning_Workspace/AI/NLP/nlp/Library
-libdir=M:/Learning_Workspace/AI/NLP/nlp/Library/lib
-sharedlibdir=M:/Learning_Workspace/AI/NLP/nlp/Library/lib
-includedir=M:/Learning_Workspace/AI/NLP/nlp/Library/include
+prefix=M:/Learning_Workspace/AI/NLP-Concepts/nlp/Library
+exec_prefix=M:/Learning_Workspace/AI/NLP-Concepts/nlp/Library
+libdir=M:/Learning_Workspace/AI/NLP-Concepts/nlp/Library/lib
+sharedlibdir=M:/Learning_Workspace/AI/NLP-Concepts/nlp/Library/lib
+includedir=M:/Learning_Workspace/AI/NLP-Concepts/nlp/Library/include
 
 Name: zlib
 Description: zlib compression library
